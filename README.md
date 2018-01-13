@@ -13,7 +13,7 @@ ___
 
 1. TM4C123 Tiva C Series Launchpad.
 2. Resistors.
-3. Red , Yellow , Green LEDs
+3. LEDs
 4. Switches
 5. Peizo Buzzer
 
